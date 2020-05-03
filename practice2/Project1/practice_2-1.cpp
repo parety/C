@@ -51,7 +51,7 @@ void main() {
 	{
 		printf("data[%d] = %d\n", i, list.data[i]);
 	}
-	printf("*************************");
+	printf("*************************\n");
 	practice2DeleteMinElemArrayList(list);
 	for (int i = 0; i < list.size; i++)
 	{
