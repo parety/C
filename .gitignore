@@ -5,6 +5,7 @@
 
 #CPP
 *.o
+*.exe
 
 # User-specific files
 *.rsuser
